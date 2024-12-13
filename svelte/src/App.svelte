@@ -14,6 +14,12 @@ import InputUsuario from './lib/InputUsuario.svelte';
 <main>
   <link rel="stylesheet" href="css/styles.css">
 
-  
+
   <Login />
+  <!-- para los campos del login y ver como funciona 
+   la validacion, he dejado debajo del formulario unos ejemplos 
+   con los que he ido haciendo pruebas -->
+
+
+  <!-- <SignUp /> -->
 </main>

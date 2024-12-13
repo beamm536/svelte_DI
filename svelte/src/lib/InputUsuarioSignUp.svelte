@@ -1,7 +1,7 @@
 <script>
 </script>
 
-<link rel="stylesheet" href="css/registro.css" />
+<link rel="stylesheet" href="css/styleSignUp.css" />
 
 <div class="contenedor-formulario">
   <div class="titulo-formulario">
